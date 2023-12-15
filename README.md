@@ -4,15 +4,15 @@ I'm passionate about physics and the fascinating world it unveils. My journey in
 
 🔭 **I'm currently working on:** 
 - Developing computational models to simulate physical phenomena.
-- Analyzing and visualizing data to gain insights into complex physical systems.
+- Employing machine learning for sequence-based drug-target interaction predictions using open-source projects like ConPLex.
 
 🌱 **I'm currently learning:** 
-- Continuum mechanics and finite element analysis.
-- Advanced data analysis techniques using Python libraries like NumPy and SciPy.
+- Data modeling using Python and its applications in bioinformatics.
+- Advanced data analysis techniques using Python libraries like NumPy, Pandas and SciPy.
 
 💬 **I'm looking to collaborate on:**
 - Computational physics projects where I can apply my modeling and data analysis skills.
-- Open-source initiatives that advance our understanding of the physical world.
+- Open-source initiatives that advance our understanding of the physical world, particularly in the realm of machine learning and bioinformatics.
 
 📫 **How to reach me:**
 - You can connect with me on LinkedIn www.linkedin.com/in/pantos-nines-606b4a290 to discuss potential collaborations or just to chat about physics and Python!
